@@ -25,6 +25,7 @@ APIs (Application Programming Interfaces) are tools that allow software componen
 ### Common API Architectural Styles 🏛️
 
 - **REST**: Uses standard HTTP methods for accessing and manipulating resources.
+  Read More: [RESTFUL APIs](https://github.com/jeel-butani/REST-APIs-Detailed-Guide)
 - **GraphQL**: Allows clients to request specific data efficiently.
 - **SOAP**: Utilizes XML for structured messaging in enterprise environments.
 - **Webhooks**: Sends real-time notifications in response to events.
